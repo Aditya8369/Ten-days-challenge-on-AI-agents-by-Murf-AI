@@ -163,7 +163,7 @@ Then open http://localhost:3000 in your browser!
 ## Daily Challenge Tasks
 
 - Day 1: Get Your Starter Voice Agent Running ✅
-- Day 2: COMING SOON!
+- Day 2: Coffee Shop Barista Agent ✅
 - Day 3: COMING SOON!
 - Day 4: COMING SOON!
 - Day 5: COMING SOON!
