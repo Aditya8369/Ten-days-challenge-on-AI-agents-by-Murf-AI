@@ -169,7 +169,7 @@ Then open http://localhost:3000 in your browser!
 - Day 5: Simple FAQ SDR + Lead Capture Agent ✅
 - Day 6: Fraud Alert Voice Agent ✅
 - Day 7: Food and Grocery Ordering Voice Agent ✅ 
-- Day 8: COMING SOON!
+- Day 8: Voice Game Master ✅
 - Day 9: COMING SOON!
 - Day 10: COMING SOON!
 
