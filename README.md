@@ -173,6 +173,8 @@ Then open http://localhost:3000 in your browser!
 - Day 9: COMING SOON!
 - Day 10: COMING SOON!
 
+**Note: You can find the codes for the specific day in other branches (eg. day 1,day 2,etc)**
+
 **Stay tuned for daily task announcements!**
 
 ## Documentation & Resources
