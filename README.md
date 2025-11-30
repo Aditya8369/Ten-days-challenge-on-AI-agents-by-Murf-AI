@@ -170,7 +170,7 @@ Then open http://localhost:3000 in your browser!
 - Day 6: Fraud Alert Voice Agent ✅
 - Day 7: Food and Grocery Ordering Voice Agent ✅ 
 - Day 8: Voice Game Master ✅
-- Day 9: COMING SOON!
+- Day 9: Introducing the E-commerce Agent ✅
 - Day 10: COMING SOON!
 
 **Note: You can find the codes for the specific day in other branches (eg. day 1,day 2,etc)**
