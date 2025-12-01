@@ -171,11 +171,10 @@ Then open http://localhost:3000 in your browser!
 - Day 7: Food and Grocery Ordering Voice Agent ✅ 
 - Day 8: Voice Game Master ✅
 - Day 9: Introducing the E-commerce Agent ✅
-- Day 10: COMING SOON!
+- Day 10: Voice Improv Battle ✅
 
 **Note: You can find the codes for the specific day in other branches (eg. day 1,day 2,etc)**
 
-**Stay tuned for daily task announcements!**
 
 ## Documentation & Resources
 
