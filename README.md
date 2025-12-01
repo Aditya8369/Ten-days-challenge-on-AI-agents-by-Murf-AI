@@ -160,20 +160,6 @@ pnpm dev
 
 Then open http://localhost:3000 in your browser!
 
-## Daily Challenge Tasks Checklist
-
-- Day 1: Get Your Starter Voice Agent Running ✅
-- Day 2: Coffee Shop Barista Agent ✅
-- Day 3: Health & Wellness Voice Companion ✅
-- Day 4: Teach the Tutor: Active Recall Coach ✅
-- Day 5: Simple FAQ SDR + Lead Capture Agent ✅
-- Day 6: Fraud Alert Voice Agent ✅
-- Day 7: COMING SOON!
-- Day 8: COMING SOON!
-- Day 9: COMING SOON!
-- Day 10: COMING SOON!
-
-**Stay tuned for daily task announcements!**
 
 ## Documentation & Resources
 
